@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+<div class="container mt-5 pt-5" style="background-color: rgb(47, 175, 54);">
+<p>The trip will be {{trip_length}} days with airfare.</p>
+<p>Your trip starts on {% now "n/j/y" %} at {% now "g:i a e" %}</p>
+<h4>Have a safe trip!</h4>   
+</div>
+{% endblock %}
