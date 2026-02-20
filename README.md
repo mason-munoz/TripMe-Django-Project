@@ -1,6 +1,8 @@
 # TripMe ✈️
 
-TripMe is a comprehensive travel management web application built with Django. It provides a platform to browse destinations, manage customer travel profiles, and search for available trips. This project demonstrates proficiency in Python, Django, PostgreSQL, relational database design, and frontend integration using Bootstrap.
+Welcome to **TripMe**, my very first Django project! I built this comprehensive travel management web application from scratch to sharpen my backend development skills and deepen my understanding of the Django framework. 
+
+TripMe provides a platform to browse destinations, manage customer travel profiles, and search for available trips. This project demonstrates my proficiency in Python, Django, PostgreSQL, relational database design, and frontend integration using Bootstrap.
 
 > **Note:** This project was coded entirely by hand without the use of AI assistance, demonstrating my solid fundamental knowledge of backend web development, MVC architecture, and Python.
 
