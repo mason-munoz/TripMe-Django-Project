@@ -4,7 +4,7 @@ Welcome to **TripMe**, my very first Django project! I built this comprehensive 
 
 TripMe provides a platform to browse destinations, manage customer travel profiles, and search for available trips. This project demonstrates my proficiency in Python, Django, PostgreSQL, relational database design, and frontend integration using Bootstrap.
 
-> **Note:** This project was coded entirely by hand without the use of AI assistance, demonstrating my solid fundamental knowledge of backend web development, MVC architecture, and Python.
+> **Note:** Used AI to write this README file
 
 ## 🚀 Features
 - **Destination Management**: Create and manage travel destinations with associated costs, days, and categories.
